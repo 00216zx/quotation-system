@@ -1,0 +1,636 @@
+{
+  "total_models": 90,
+  "existing_images": [
+    {
+      "model": "5FFS-IBC",
+      "folder": "5FFS-IBC",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\5FFS-IBC\\5FFS-IBC.jpg"
+      ]
+    },
+    {
+      "model": "AB-1100",
+      "folder": "AB-1100",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\AB-1100\\AB-1100.png"
+      ]
+    },
+    {
+      "model": "AB-1600",
+      "folder": "AB-1600",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\AB-1600\\AB-1600.png"
+      ]
+    },
+    {
+      "model": "AB-2000",
+      "folder": "AB-2000",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\AB-2000\\AB-2000.png"
+      ]
+    },
+    {
+      "model": "ABA-1100",
+      "folder": "ABA-1100",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\ABA-1100\\ABA-1100.jpg"
+      ]
+    },
+    {
+      "model": "ABA-1300",
+      "folder": "ABA-1300",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\ABA-1300\\ABA-1300.jpg"
+      ]
+    },
+    {
+      "model": "ABA-900",
+      "folder": "ABA-900",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\ABA-900\\ABA-900.jpg"
+      ]
+    },
+    {
+      "model": "ABA-CO-1100",
+      "folder": "ABA-CO-1100",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\ABA-CO-1100\\ABA-CO-1100.jpg"
+      ]
+    },
+    {
+      "model": "ABA-CO-1300",
+      "folder": "ABA-CO-1300",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\ABA-CO-1300\\ABA-CO-1300.jpg"
+      ]
+    },
+    {
+      "model": "ABA-CO-900",
+      "folder": "ABA-CO-900",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\ABA-CO-900\\ABA-CO-900.jpg"
+      ]
+    },
+    {
+      "model": "ABC-1300",
+      "folder": "ABC-1300",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\ABC-1300\\ABC-1300.jpg"
+      ]
+    },
+    {
+      "model": "ABC-1400",
+      "folder": "ABC-1400",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\ABC-1400\\ABC-1400.jpg"
+      ]
+    },
+    {
+      "model": "ABC-1600",
+      "folder": "ABC-1600",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\ABC-1600\\ABC-1600.jpg"
+      ]
+    },
+    {
+      "model": "ABC-1700",
+      "folder": "ABC-1700",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\ABC-1700\\ABC-1700.jpg"
+      ]
+    },
+    {
+      "model": "ABC-2100",
+      "folder": "ABC-2100",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\ABC-2100\\ABC-2100.jpg"
+      ]
+    },
+    {
+      "model": "ABC-2200",
+      "folder": "ABC-2200",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\ABC-2200\\ABC-2200.jpg"
+      ]
+    },
+    {
+      "model": "CY-430×2",
+      "folder": "CY-430x2",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\CY-430x2\\CY-430x2.jpg"
+      ]
+    },
+    {
+      "model": "CY-500C",
+      "folder": "CY-500C",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\CY-500C\\CY-500C.jpg"
+      ]
+    },
+    {
+      "model": "CY-500x2",
+      "folder": "CY-500x2",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\CY-500x2\\CY-500x2.jpg"
+      ]
+    },
+    {
+      "model": "CY-500×2",
+      "folder": "CY-500x2",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\CY-500x2\\CY-500x2.jpg"
+      ]
+    },
+    {
+      "model": "CY-800ZD",
+      "folder": "CY-800ZD",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\CY-800ZD\\CY-800ZD.jpg"
+      ]
+    },
+    {
+      "model": "CY-HB",
+      "folder": "CY-HB",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\CY-HB\\CY-HB.jpg"
+      ]
+    },
+    {
+      "model": "CY-SH-4LINES",
+      "folder": "CY-SH-4LINES",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\CY-SH-4LINES\\CY-SH-4LINES.jpg"
+      ]
+    },
+    {
+      "model": "CY-SH-6LINES",
+      "folder": "CY-SH-6LINES",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\CY-SH-6LINES\\CY-SH-6LINES.jpg"
+      ]
+    },
+    {
+      "model": "CY-SH-8LINES",
+      "folder": "CY-SH-8LINES",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\CY-SH-8LINES\\CY-SH-8LINES.jpg"
+      ]
+    },
+    {
+      "model": "DFL-1000",
+      "folder": "DFL-1000",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\DFL-1000\\DFL-1000.jpg"
+      ]
+    },
+    {
+      "model": "DFL-600",
+      "folder": "DFL-600",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\DFL-600\\DFL-600.jpg"
+      ]
+    },
+    {
+      "model": "DFL-700",
+      "folder": "DFL-700",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\DFL-700\\DFL-700.jpg"
+      ]
+    },
+    {
+      "model": "DFL-800",
+      "folder": "DFL-800",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\DFL-800\\DFL-800.jpg"
+      ]
+    },
+    {
+      "model": "DFR-450×2",
+      "folder": "DFR-450x2",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\DFR-450x2\\DFR-450x2.jpg"
+      ]
+    },
+    {
+      "model": "GFQ-1000",
+      "folder": "GFQ-1000",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\GFQ-1000\\GFQ-1000.jpg"
+      ]
+    },
+    {
+      "model": "GFQ-1000TF",
+      "folder": "GFQ-1000TF",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\GFQ-1000TF\\GFQ-1000TF.jpg"
+      ]
+    },
+    {
+      "model": "GFQ-1200",
+      "folder": "GFQ-1200",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\GFQ-1200\\GFQ-1200.jpg"
+      ]
+    },
+    {
+      "model": "GFQ-600",
+      "folder": "GFQ-600",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\GFQ-600\\GFQ-600.jpg"
+      ]
+    },
+    {
+      "model": "GFQ-800",
+      "folder": "GFQ-800",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\GFQ-800\\GFQ-800.jpg"
+      ]
+    },
+    {
+      "model": "MINI-45",
+      "folder": "MINI-45",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\MINI-45\\MINI-45.png"
+      ]
+    },
+    {
+      "model": "MINI-45-PRO",
+      "folder": "MINI-45-PRO",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\MINI-45-PRO\\MINI-45-PRO.jpg"
+      ]
+    },
+    {
+      "model": "MONO-100",
+      "folder": "MONO-100",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\MONO-100\\MONO-100.jpg"
+      ]
+    },
+    {
+      "model": "MONO-45",
+      "folder": "MONO-45",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\MONO-45\\MONO-45.jpg"
+      ]
+    },
+    {
+      "model": "MONO-50",
+      "folder": "MONO-50",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\MONO-50\\MONO-50.jpg"
+      ]
+    },
+    {
+      "model": "MONO-55",
+      "folder": "MONO-55",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\MONO-55\\MONO-55.jpg"
+      ]
+    },
+    {
+      "model": "MONO-60",
+      "folder": "MONO-60",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\MONO-60\\MONO-60.jpg"
+      ]
+    },
+    {
+      "model": "MONO-65",
+      "folder": "MONO-65",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\MONO-65\\MONO-65.jpg"
+      ]
+    },
+    {
+      "model": "MONO-75",
+      "folder": "MONO-75",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\MONO-75\\MONO-75.jpg"
+      ]
+    },
+    {
+      "model": "MONO-PRO-45",
+      "folder": "MONO-PRO-45",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\MONO-PRO-45\\MONO-PRO-45.jpg"
+      ]
+    },
+    {
+      "model": "MONO-PRO-50",
+      "folder": "MONO-PRO-50",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\MONO-PRO-50\\MONO-PRO-50.jpg"
+      ]
+    },
+    {
+      "model": "MONO-PRO-55",
+      "folder": "MONO-PRO-55",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\MONO-PRO-55\\MONO-PRO-55.jpg"
+      ]
+    },
+    {
+      "model": "MONO-PRO-60",
+      "folder": "MONO-PRO-60",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\MONO-PRO-60\\MONO-PRO-60.jpg"
+      ]
+    },
+    {
+      "model": "MONO-PRO-65",
+      "folder": "MONO-PRO-65",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\MONO-PRO-65\\MONO-PRO-65.jpg"
+      ]
+    },
+    {
+      "model": "PP-1000",
+      "folder": "PP-1000",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\PP-1000\\PP-1000.png"
+      ]
+    },
+    {
+      "model": "PP-600",
+      "folder": "PP-600",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\PP-600\\PP-600.png"
+      ]
+    },
+    {
+      "model": "PP-800",
+      "folder": "PP-800",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\PP-800\\PP-800.png"
+      ]
+    },
+    {
+      "model": "RQL-1000",
+      "folder": "RQL-1000",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\RQL-1000\\RQL-1000.jpg"
+      ]
+    },
+    {
+      "model": "RQL-600",
+      "folder": "RQL-600",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\RQL-600\\RQL-600.jpg"
+      ]
+    },
+    {
+      "model": "RQL-800",
+      "folder": "RQL-800",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\RQL-800\\RQL-800.jpg"
+      ]
+    },
+    {
+      "model": "S-40Dx2x700",
+      "folder": "S-40Dx2x700",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\S-40Dx2x700\\S-40Dx2x700.jpg"
+      ]
+    },
+    {
+      "model": "SHXJ-1000",
+      "folder": "SHXJ-1000",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\SHXJ-1000\\SHXJ-1000.jpg"
+      ]
+    },
+    {
+      "model": "SHXJ-1200",
+      "folder": "SHXJ-1200",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\SHXJ-1200\\SHXJ-1200.jpg"
+      ]
+    },
+    {
+      "model": "SHXJ-600",
+      "folder": "SHXJ-600",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\SHXJ-600\\SHXJ-600.jpg"
+      ]
+    },
+    {
+      "model": "SHXJ-6LINES",
+      "folder": "SHXJ-6LINES",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\SHXJ-6LINES\\SHXJ-6LINES.jpg"
+      ]
+    },
+    {
+      "model": "SHXJ-800",
+      "folder": "SHXJ-800",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\SHXJ-800\\SHXJ-800.jpg"
+      ]
+    },
+    {
+      "model": "SHXJ-A-500",
+      "folder": "SHXJ-A-500",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\SHXJ-A-500\\SHXJ-A-500.jpg"
+      ]
+    },
+    {
+      "model": "SHXJ-A-600",
+      "folder": "SHXJ-A-600",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\SHXJ-A-600\\SHXJ-A-600.jpg"
+      ]
+    },
+    {
+      "model": "SHXJ-A-700",
+      "folder": "SHXJ-A-700",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\SHXJ-A-700\\SHXJ-A-700.jpg"
+      ]
+    },
+    {
+      "model": "SHXJ-A-800",
+      "folder": "SHXJ-A-800",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\SHXJ-A-800\\SHXJ-A-800.jpg"
+      ]
+    },
+    {
+      "model": "SJ-60",
+      "folder": "SJ-60",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\SJ-60\\SJ-60.jpg"
+      ]
+    },
+    {
+      "model": "SJ-70",
+      "folder": "SJ-70",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\SJ-70\\SJ-70.jpg"
+      ]
+    },
+    {
+      "model": "SJ-P45",
+      "folder": "SJ-P45",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\SJ-P45\\SJ-P45.jpg"
+      ]
+    },
+    {
+      "model": "SJ-P50",
+      "folder": "SJ-P50",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\SJ-P50\\SJ-P50.jpg"
+      ]
+    },
+    {
+      "model": "SJ-P55",
+      "folder": "SJ-P55",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\SJ-P55\\SJ-P55.jpg"
+      ]
+    },
+    {
+      "model": "SJ-P60",
+      "folder": "SJ-P60",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\SJ-P60\\SJ-P60.jpg"
+      ]
+    },
+    {
+      "model": "SJ-P65",
+      "folder": "SJ-P65",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\SJ-P65\\SJ-P65.jpg"
+      ]
+    },
+    {
+      "model": "YT-1000",
+      "folder": "YT-1000",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\YT-1000\\YT-1000.png"
+      ]
+    },
+    {
+      "model": "YT-21000",
+      "folder": "YT-21000",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\YT-21000\\YT-21000.jpg"
+      ]
+    },
+    {
+      "model": "YT-2600",
+      "folder": "YT-2600",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\YT-2600\\YT-2600.jpg"
+      ]
+    },
+    {
+      "model": "YT-2800",
+      "folder": "YT-2800",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\YT-2800\\YT-2800.jpg"
+      ]
+    },
+    {
+      "model": "YT-41000",
+      "folder": "YT-41000",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\YT-41000\\YT-41000.jpg"
+      ]
+    },
+    {
+      "model": "YT-4600",
+      "folder": "YT-4600",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\YT-4600\\YT-4600.jpg"
+      ]
+    },
+    {
+      "model": "YT-4800",
+      "folder": "YT-4800",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\YT-4800\\YT-4800.jpg"
+      ]
+    },
+    {
+      "model": "YT-600",
+      "folder": "YT-600",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\YT-600\\YT-600.png"
+      ]
+    },
+    {
+      "model": "YT-61000",
+      "folder": "YT-61000",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\YT-61000\\YT-61000.jpg"
+      ]
+    },
+    {
+      "model": "YT-6600",
+      "folder": "YT-6600",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\YT-6600\\YT-6600.jpg"
+      ]
+    },
+    {
+      "model": "YT-6800",
+      "folder": "YT-6800",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\YT-6800\\YT-6800.jpg"
+      ]
+    },
+    {
+      "model": "YT-800",
+      "folder": "YT-800",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\YT-800\\YT-800.png"
+      ]
+    },
+    {
+      "model": "ZB-FFS800",
+      "folder": "ZB-FFS800",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\ZB-FFS800\\ZB-FFS800.jpg"
+      ]
+    },
+    {
+      "model": "ZX-1300TF",
+      "folder": "ZX-1300TF",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\ZX-1300TF\\ZX-1300TF.jpg"
+      ]
+    },
+    {
+      "model": "ZX-400×2",
+      "folder": "ZX-400x2",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\ZX-400x2\\ZX-400x2.png"
+      ]
+    },
+    {
+      "model": "ZXCS-1000",
+      "folder": "ZXCS-1000",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\ZXCS-1000\\ZXCS-1000.jpg"
+      ]
+    },
+    {
+      "model": "ZXCS-800",
+      "folder": "ZXCS-800",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\ZXCS-800\\ZXCS-800.jpg"
+      ]
+    },
+    {
+      "model": "ZXF-500",
+      "folder": "ZXF-500",
+      "images": [
+        "d:\\吹膜机外贸\\报价单\\images\\ZXF-500\\ZXF-500.png"
+      ]
+    }
+  ],
+  "missing_images": []
+}

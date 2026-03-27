@@ -1,0 +1,12 @@
+{
+  "total_models": 90,
+  "missing_folders": [],
+  "missing_images": [],
+  "functions_found": [
+    "getLocalImageForModel",
+    "loadProductImage",
+    "getImageForSeries"
+  ],
+  "success": true,
+  "timestamp": "2026-03-27"
+}
